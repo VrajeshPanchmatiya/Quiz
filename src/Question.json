@@ -1,0 +1,102 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "name": "English",
+      "Questions": [
+        {
+          "questionId": 1,
+          "questionText": "Who Built Taj",
+          "answerText": "TATA Group",
+          "Options_": [
+            "TATA Group",
+            "Birla Group",
+            "Patel Group",
+            "Adani Group"
+          ]
+        },
+        {
+          "questionId": 2,
+          "questionText": "Parent Company of Google _________",
+          "answerText": "Alphabet Inc.",
+          "Options_": ["Alphabet Inc.", "Jio", "Microsoft", "Apple"]
+        },
+        {
+          "questionId": 3,
+          "questionText": "React is a Library?",
+          "answerText": "True",
+          "Options_": ["True", "False"]
+        },
+        {
+          "questionId": 4,
+          "questionText": "Correct the Flux Architecture = Store-Action-Dispatcher-View",
+          "Options_": [
+            "Action-Dispatcher-Store-View",
+            "View-Dispatcher-Store-Action",
+            "View-Store-Dispatcher-Action",
+            "None of the above"
+          ],
+          "answerText": "Action-Dispatcher-Store-View"
+        },
+        {
+          "questionId": 5,
+          "questionText": "Select the most important values consider a person should have",
+          "Options_": [
+            "Honesty",
+            "Sincerity",
+            "Loyality",
+            "Gratitude",
+            "Respect"
+          ],
+          "answerText": ["Honesty", "Respect"]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Hindi",
+      "Questions": [
+        {
+          "questionId": 1,
+          "questionText": "ताज का निर्माण किसने करवाया",
+          "answerText": "टाटा ग्रुप",
+          "Options_": [
+            "टाटा ग्रुप",
+            "बिड़ला ग्रुप",
+            "पटेल ग्रुप",
+            "अडानी ग्रुप"
+          ]
+        },
+        {
+          "questionId": 2,
+          "questionText": "गूगल की मूल कंपनी _________",
+          "answerText": "वर्णमाला इंक।",
+          "Options_": ["अल्फाबेट इंक", "जियो", "माइक्रोसॉफ्ट", "एप्पल"]
+        },
+        {
+          "questionId": 3,
+          "questionText": "प्रतिक्रिया एक पुस्तकालय है?",
+          "answerText": "सत्य",
+          "Options_": ["सही", "गलत"]
+        },
+        {
+          "questionId": 4,
+          "quetionText": "फ्लक्स आर्किटेक्चर को ठीक करें = स्टोर-एक्शन-डिस्पैचर-व्यू",
+          "Options_": [
+            "एक्शन-डिस्पैचर-स्टोर-व्यू",
+            "व्यू-डिस्पैचर-स्टोर-एक्शन",
+            "व्यू-स्टोर-डिस्पैचर-एक्शन",
+            "इनमे से कोई भी नहीं"
+          ],
+          "answerText": "एक्शन-डिस्पैचर-स्टोर-व्यू"
+        },
+        {
+          "questionId": 5,
+          "questionText": "सबसे महत्वपूर्ण मूल्यों का चयन करें जिन पर विचार करें कि एक व्यक्ति के पास होना चाहिए",
+          "Options_": ["ईमानदारी", "वफादारी", "कृतज्ञता", "आदर करना"],
+          "answerText": ["ईमानदारी", "आदर करना"]
+        }
+      ]
+    }
+  ]
+}
